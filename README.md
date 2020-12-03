@@ -31,4 +31,4 @@
     ./openstack-purge.sh /path/to/admin-rc /path/to/venv
     ```
 
-    > You can exclue `/path/to/venv` if you are not using virtual environment
+    > You can exclude `/path/to/venv` if you are not using virtual environment
